@@ -1,0 +1,498 @@
+Generation : 1
+	Island : 0
+	44     	35	10	-2	-15
+		Average : 14.400000
+        Island : 1
+	114	82	12	 3	-28
+                Average : 36.600000
+	Island : 2
+        38	31	31	-43	-91
+                Average : -6.800000
+	Island : 3
+        90	82	78	10	-45
+                Average : 43.000000
+Whole Average : 21.800000
+
+Generation : 2
+	Island : 0
+	157	153	96	48	34
+		Average : 97.600000
+	Island : 1
+	112	93	93	65	-70
+		Average : 58.600000
+	Island : 2
+	33	31	15	8	5
+		Average : 18.400000
+	Island : 3
+	163	118	111	105	65
+		Average : 112.400000
+Whole Average : 71.750000
+
+Generation : 3
+	Island : 0
+	170	145	113	32	18
+		Average : 95.600000
+	Island : 1
+	147	114	99	45	25
+		Average : 86.000000
+	Island : 2
+	56	55	52	17	2
+		Average : 36.400000
+	Island : 3
+	175	155	155	97	4
+		Average : 117.200000
+Whole Average : 83.800000
+
+Generation : 4
+	Island : 0
+	188	117	113	105	95
+		Average : 123.600000
+	Island : 1
+	140	134	105	68	-25
+		Average : 84.400000
+	Island : 2
+	185	82	44	12	-15
+		Average : 61.600000
+	Island : 3
+	143	140	136	94	89
+		Average : 120.400000
+Whole Average : 97.500000
+
+Generation : 5
+	Island : 0
+	165	141	113	113	66
+		Average : 119.600000
+	Island : 1
+	205	188	102	71	13
+		Average : 115.800000
+	Island : 2
+	168	148	23	20	-55
+		Average : 60.800000
+	Island : 3
+	186	128	124	108	23
+		Average : 113.800000
+Whole Average : 102.500000
+
+Generation : 6
+	Island : 0
+	148	140	115	98	17
+		Average : 103.600000
+	Island : 1
+	217	190	66	56	25
+		Average : 110.800000
+	Island : 2
+	176	142	127	2	-32
+		Average : 83.000000
+	Island : 3
+	222	202	185	128	49
+		Average : 157.200000
+Whole Average : 113.650000
+
+Generation : 7
+	Island : 0
+	167	148	105	82	52
+		Average : 110.800000
+	Island : 1
+	339	227	221	120	107
+		Average : 202.800000
+	Island : 2
+	183	167	108	103	77
+		Average : 127.600000
+	Island : 3
+	194	191	158	108	60
+		Average : 142.200000
+Whole Average : 145.850000
+
+Generation : 8
+	Island : 0
+	153	113	100	77	43
+		Average : 97.200000
+	Island : 1
+	340	323	153	101	44
+		Average : 192.200000
+	Island : 2
+	212	176	131	120	79
+		Average : 143.600000
+	Island : 3
+	218	206	202	156	58
+		Average : 168.000000
+Whole Average : 150.250000
+
+Generation : 9
+	Island : 0
+	218	154	69	67	63
+		Average : 114.200000
+	Island : 1
+	304	303	267	160	6
+		Average : 208.000000
+	Island : 2
+	213	121	92	55	53
+		Average : 106.800000
+	Island : 3
+	233	204	185	109	105
+		Average : 167.200000
+Whole Average : 149.050000
+
+Generation : 10
+	Island : 0
+	220	173	144	105	21
+		Average : 132.600000
+	Island : 1
+	277	261	192	191	185
+		Average : 221.200000
+	Island : 2
+	170	155	130	70	15
+		Average : 108.000000
+	Island : 3
+	213	132	130	103	45
+		Average : 124.600000
+Whole Average : 146.600000
+
+Immigration : 1
+	Immigrant_0 (0,3) --> Island_2
+	Immigrant_1 (1,4) --> Island_3
+	Immigrant_2 (2,1) --> Island_1
+	Immigrant_3 (3,1) --> Island_0
+
+Generation : 11
+	Island : 0
+	212	193	155	104	72
+		Average : 147.200000
+	Island : 1
+	260	243	150	148	116
+		Average : 183.400000
+	Island : 2
+	210	170	100	81	80
+		Average : 128.200000
+	Island : 3
+	298	207	175	168	-57
+		Average : 158.200000
+Whole Average : 154.250000
+
+Generation : 12
+	Island : 0
+	195	175	162	146	94
+		Average : 154.400000
+	Island : 1
+	271	215	163	95	84
+		Average : 165.600000
+	Island : 2
+	210	132	91	77	20
+		Average : 106.000000
+	Island : 3
+	289	165	134	106	103
+		Average : 159.400000
+Whole Average : 146.350000
+
+Generation : 13
+	Island : 0
+	203	192	147	122	122
+		Average : 157.200000
+	Island : 1
+	302	233	207	117	49
+		Average : 181.600000
+	Island : 2
+	218	201	163	135	-40
+		Average : 135.400000
+	Island : 3
+	255	238	127	67	-182
+		Average : 101.000000
+Whole Average : 143.800000
+
+Generation : 14
+	Island : 0
+	201	187	173	153	128
+		Average : 168.400000
+	Island : 1
+	325	152	98	93	56
+		Average : 144.800000
+	Island : 2
+	230	197	108	98	62
+		Average : 139.000000
+	Island : 3
+	255	115	75	67	52
+		Average : 112.800000
+Whole Average : 141.250000
+
+Generation : 15
+	Island : 0
+	208	188	113	108	88
+		Average : 141.000000
+	Island : 1
+	242	207	187	92	69
+		Average : 159.400000
+	Island : 2
+	219	182	181	92	37
+		Average : 142.200000
+	Island : 3
+	185	132	132	117	-120
+		Average : 89.200000
+Whole Average : 132.950000
+
+Generation : 16
+	Island : 0
+	152	146	123	95	65
+		Average : 116.200000
+	Island : 1
+	236	210	185	54	-25
+		Average : 132.000000
+	Island : 2
+	245	170	136	100	90
+		Average : 148.200000
+	Island : 3
+	252	237	155	125	117
+		Average : 177.200000
+Whole Average : 143.400000
+
+Generation : 17
+	Island : 0
+	327	256	248	117	-28
+		Average : 184.000000
+	Island : 1
+	323	300	286	167	25
+		Average : 220.200000
+	Island : 2
+	251	165	131	76	70
+		Average : 138.600000
+	Island : 3
+	330	298	270	192	94
+		Average : 236.800000
+Whole Average : 194.900000
+
+Generation : 18
+	Island : 0
+	303	243	180	162	115
+		Average : 200.600000
+	Island : 1
+	267	223	220	154	149
+		Average : 202.600000
+	Island : 2
+	252	167	133	108	73
+		Average : 146.600000
+	Island : 3
+	216	168	138	133	112
+		Average : 153.400000
+Whole Average : 175.800000
+
+Generation : 19
+	Island : 0
+	240	192	175	157	68
+		Average : 166.400000
+	Island : 1
+	335	319	300	166	66
+		Average : 237.200000
+	Island : 2
+	199	177	112	17	10
+		Average : 103.000000
+	Island : 3
+	306	197	163	99	77
+		Average : 168.400000
+Whole Average : 168.750000
+
+Generation : 20
+	Island : 0
+	210	141	140	127	106
+		Average : 144.800000
+	Island : 1
+	291	264	246	186	163
+		Average : 230.000000
+	Island : 2
+	227	215	206	103	-60
+		Average : 138.200000
+	Island : 3
+	270	263	233	60	37
+		Average : 172.600000
+Whole Average : 171.400000
+
+Immigration : 2
+	Immigrant_0 (0,2) --> Island_2
+	Immigrant_1 (1,3) --> Island_3
+	Immigrant_2 (2,1) --> Island_1
+	Immigrant_3 (3,3) --> Island_0
+
+Generation : 21
+	Island : 0
+	204	190	86	68	32
+		Average : 116.000000
+	Island : 1
+	317	307	235	130	83
+		Average : 214.400000
+	Island : 2
+	265	252	187	128	50
+		Average : 176.400000
+	Island : 3
+	278	255	234	213	211
+		Average : 238.200000
+Whole Average : 186.250000
+
+Generation : 22
+	Island : 0
+	211	202	198	168	145
+		Average : 184.800000
+	Island : 1
+	323	248	128	125	100
+		Average : 184.800000
+	Island : 2
+	267	209	150	93	47
+		Average : 153.200000
+	Island : 3
+	281	157	142	115	82
+		Average : 155.400000
+Whole Average : 169.550000
+
+Generation : 23
+	Island : 0
+	211	173	136	131	107
+		Average : 151.600000
+	Island : 1
+	265	223	135	90	-50
+		Average : 132.600000
+	Island : 2
+	257	170	162	105	76
+		Average : 154.000000
+	Island : 3
+	277	223	215	143	25
+		Average : 176.600000
+Whole Average : 153.700000
+
+Generation : 24
+	Island : 0
+	215	205	195	140	87
+		Average : 168.400000
+	Island : 1
+	337	253	154	145	120
+		Average : 201.800000
+	Island : 2
+	278	201	123	57	31
+		Average : 138.000000
+	Island : 3
+	270	189	188	181	155
+		Average : 196.600000
+Whole Average : 176.200000
+
+Generation : 25
+	Island : 0
+	231	230	123	55	33
+		Average : 134.400000
+	Island : 1
+	322	292	205	63	-38
+		Average : 168.800000
+	Island : 2
+	272	267	210	90	33
+		Average : 174.400000
+	Island : 3
+	288	240	210	127	-15
+		Average : 170.000000
+Whole Average : 161.900000
+
+Generation : 26
+	Island : 0
+	286	232	197	39	-20
+		Average : 146.800000
+	Island : 1
+	273	221	185	140	140
+		Average : 191.800000
+	Island : 2
+	261	259	225	199	70
+		Average : 202.800000
+	Island : 3
+	255	195	192	165	153
+		Average : 192.000000
+Whole Average : 183.350000
+
+Generation : 27
+	Island : 0
+	302	214	210	155	-37
+		Average : 168.800000
+	Island : 1
+	307	255	200	98	41
+		Average : 180.200000
+	Island : 2
+	273	255	182	143	95
+		Average : 189.600000
+	Island : 3
+	253	196	196	156	6
+		Average : 161.400000
+Whole Average : 175.000000
+
+Generation : 28
+	Island : 0
+	289	227	210	171	155
+		Average : 210.400000
+	Island : 1
+	336	269	257	157	5
+		Average : 204.800000
+	Island : 2
+	296	191	183	181	-5
+		Average : 169.200000
+	Island : 3
+	325	251	148	135	0
+		Average : 171.800000
+Whole Average : 189.050000
+
+Generation : 29
+	Island : 0
+	255	198	166	163	92
+		Average : 174.800000
+	Island : 1
+	320	226	160	64	41
+		Average : 162.200000
+	Island : 2
+	263	202	178	114	103
+		Average : 172.000000
+	Island : 3
+	284	113	106	71	54
+		Average : 125.600000
+Whole Average : 158.650000
+
+Generation : 30
+	Island : 0
+	282	198	186	177	151
+		Average : 198.800000
+	Island : 1
+	340	225	206	183	182
+		Average : 227.200000
+	Island : 2
+	251	239	236	230	75
+		Average : 206.200000
+	Island : 3
+	315	180	145	92	72
+		Average : 160.800000
+Whole Average : 198.250000
+
+Immigration : 3
+	Immigrant_0 (0,4) --> Island_2
+	Immigrant_1 (1,4) --> Island_0
+	Immigrant_2 (2,2) --> Island_3
+	Immigrant_3 (3,4) --> Island_1
+
+Generation : 31
+	Island : 0
+	305	160	140	136	113
+		Average : 170.800000
+	Island : 1
+	262	240	192	143	4
+		Average : 168.200000
+	Island : 2
+	274	245	187	161	85
+		Average : 190.400000
+	Island : 3
+	292	210	175	170	47
+		Average : 178.800000
+Whole Average : 177.050000
+
+Generation : 32
+	Island : 0
+	225	175	117	112	82
+		Average : 142.200000
+	Island : 1
+	338	195	165	130	110
+		Average : 187.600000
+	Island : 2
+	331	297	285	55	7
+		Average : 195.000000
+	Island : 3
+	314	291	212	91	25
+		Average : 186.600000
+Whole Average : 177.850000
+
