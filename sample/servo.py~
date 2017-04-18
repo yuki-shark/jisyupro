@@ -1,0 +1,30 @@
+import serial
+import time
+import RPi.GPIO as GPIO
+
+print("state:1")
+GPIO.setmode(GPIO.BCM)
+GPIO.setup(2, GPIO.OUT)
+
+print("state:2")
+port = serial.Serial("/dev/ttyAMA0", baudrate=1000000, timeout=3.0)
+
+print("state:3")
+while True:
+    print("state:4")
+
+    print("state:5")
+    port.write(bytearray.fromhex("FF FF 01 05 03 1E 32 03 A3"))
+    print("state:6")
+    time.sleep(0.1)
+    print("state:7")
+    GPIO.output(2, GPIO.LOW)
+    print("state:8")
+    time.sleep(3)
+    print("state:9")
+    
+    GPIO.output(2,GPIO.HIGH)
+    port.write(bytearray.fromhex("FF FF 01 05 03 1E CD 00 0b"))
+    time.sleep(0.1)
+    GPIO.output(2,GPIO.LOW)
+    time.sleep(3)
